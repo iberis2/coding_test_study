@@ -36,7 +36,7 @@
 
 | 회차 | 날짜 | 기록 | 참여자 |
 |------|------|------|--------|
-| 1 | 26-02-13 (FRI) 19:00 | [1주차 - Array & Hash](https://github.com/iberis2/coding_test_study/tree/main/1%EC%A3%BC%EC%B0%A8) | 병국, 문기, 선우, 태일, 설화 |
+| 1 | 26-02-13 (FRI) 19:00 | [1주차 - Array & Hash](https://github.com/iberis2/coding_test_study/commit/e5b906d93878a012069231fe1770f301a35c3e7e) | 병국, 문기, 선우, 태일, 설화 |
 | 2 | 26-02-20 (FRI) 19:00 | [2주차 - Stack & 구현(시뮬레이션) & 정렬]() | |
 | 3 | 26-02-27 (FRI) 19:00 | [3주차]() | |
 | 4 | 26-03-06 (FRI) 19:00 | [4주차]() | |
