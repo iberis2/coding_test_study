@@ -11,3 +11,9 @@
 [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
     
 [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+
+---
+
+## 기술 면접
+
+1. 클로저에 대해서 설명해주세요. (2/23 월)
