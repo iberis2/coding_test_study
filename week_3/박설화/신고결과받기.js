@@ -1,5 +1,19 @@
 /**
- * 풀이 1.
+ * 풀이 1. 각 유저의 인덱스를 빠르게 찾기 위해 id → index 매핑 객체(userIndex)를 만든다.
+  2. report 배열에서 중복 신고를 제거한다. → 한 유저가 같은 유저를 여러 번 신고해도 1회 처리
+
+  3. 자료구조 준비
+    reportsByUser → "각 유저가 누구를 신고했는지" 저장하는 2차원 배열
+    reportCountMap → "각 유저가 몇 번 신고당했는지" 저장하는 객체
+
+  4. 중복 제거된 reports를 순회하면서:
+    - 신고한 사람의 인덱스를 찾는다
+    - 해당 인덱스 배열에 신고당한 유저를 추가한다
+    - 신고당한 유저의 신고 횟수를 +1 한다
+
+  5. reportCountMap을 순회하여 신고 횟수가 k 이상인 유저를 찾는다. → 정지된 유저 집합(blockedUser Set) 생성
+  6. 각 유저가 신고한 목록을 순회하면서 그 중 정지된 유저 수를 계산한다. → 이것이 메일 발송 횟수
+  7. 결과 배열 반환
  */
 function solution(id_list, report, k) {
   const userIndex = {};
@@ -34,9 +48,7 @@ function solution(id_list, report, k) {
 function solution(id_list, report, k) {
   // 1. { 신고한 사람 : new Set(신고 당한 사람들) }, 중복 신고 자동 제거
   const reportMap = {};
-  id_list.forEach(id => {
-    reportMap[id] = new Set();
-  }); 
+  id_list.forEach(id => { reportMap[id] = new Set() }); 
 
   report.forEach(entry => {
     const [reporter, reported] = entry.split(' ');
@@ -46,9 +58,7 @@ function solution(id_list, report, k) {
   // 3. 신고당한 횟수 집계 { 신고 당한 사람 : 신고 횟수 }
   const reportCount = {};
   Object.values(reportMap).forEach(reportedSet => {
-    reportedSet.forEach(name => {
-      reportCount[name] = (reportCount[name] || 0) + 1;
-    });
+    reportedSet.forEach(name => { reportCount[name] = (reportCount[name] || 0) + 1 });
   });
 
   // 4. 정지 유저 Set
