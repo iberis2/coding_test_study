@@ -21,10 +21,10 @@
 | 이름 | 참여 횟수 | 참여 배지 |
 |------|-----------|-----------|
 | 강병국 | 3 / 12 | 🏅🏅🏅 |
-| 김문기 | 3 / 12 | 🏅🏅🏅 |
-| 박설화 | 3 / 12 | 🏅🏅🏅 |
-| 신태일 | 2 / 12 | 🏅🏅   |
-| 장효신 | 1 / 12 | 🏅    |
+| 김문기 | 4 / 12 | 🏅🏅🏅🏅|
+| 박설화 | 4 / 12 | 🏅🏅🏅🏅|
+| 신태일 | 3 / 12 | 🏅🏅🏅   |
+| 장효신 | 2 / 12 | 🏅🏅    |
 
 <br/>
 
@@ -40,8 +40,8 @@
 | 1 | 26-02-13 (FRI) 19:00 | [1주차 - Array & Hash](https://github.com/iberis2/coding_test_study/blob/main/week_1/README.md) | 병국, 문기, 선우, 태일, 설화 |
 | 2 | 26-02-20 (FRI) 19:00 | [2주차 - Stack & 구현(시뮬레이션) & 정렬](https://github.com/iberis2/coding_test_study/blob/main/week_2/README.md) |병국, 문기, 설화 |
 | 3 | 26-02-27 (FRI) 19:00 | [3주차 - Stack, Queue, Hash](https://github.com/iberis2/coding_test_study/blob/main/week_3/README.md) | |
-| 4 | 26-03-06 (FRI) 19:00 | [4주차]() | |
-| 5 | 26-03-13 (FRI) 19:00 | [5주차]() | |
+| 4 | 26-03-06 (FRI) 19:00 | [4주차 - 트리 & 집합](https://github.com/iberis2/coding_test_study/blob/main/week_4/README.md) | |
+| 5 | 26-03-13 (FRI) 19:00 | [5주차 - 집합 & 그래프](https://github.com/iberis2/coding_test_study/blob/main/week_5/README.md) | |
 | 6 | 26-03-20 (FRI) 19:00 | [6주차]() | |
 | 7 | 26-03-27 (FRI) 19:00 | [7주차]() | |
 | 8 | 26-04-03 (FRI) 19:00 | [8주차]() | |
