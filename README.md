@@ -23,7 +23,7 @@
 | 강병국 | 3 / 12 | 🏅🏅🏅 |
 | 김문기 | 4 / 12 | 🏅🏅🏅🏅|
 | 박설화 | 4 / 12 | 🏅🏅🏅🏅|
-| 신태일 | 3 / 12 | 🏅🏅🏅   |
+| 신태일 | 3 / 12 | 🏅🏅🏅  |
 | 장효신 | 2 / 12 | 🏅🏅    |
 
 <br/>
@@ -39,16 +39,16 @@
 |------|------|------|--------|
 | 1 | 26-02-13 (FRI) 19:00 | [1주차 - Array & Hash](https://github.com/iberis2/coding_test_study/blob/main/week_1/README.md) | 병국, 문기, 선우, 태일, 설화 |
 | 2 | 26-02-20 (FRI) 19:00 | [2주차 - Stack & 구현(시뮬레이션) & 정렬](https://github.com/iberis2/coding_test_study/blob/main/week_2/README.md) |병국, 문기, 설화 |
-| 3 | 26-02-27 (FRI) 19:00 | [3주차 - Stack, Queue, Hash](https://github.com/iberis2/coding_test_study/blob/main/week_3/README.md) | |
-| 4 | 26-03-06 (FRI) 19:00 | [4주차 - 트리 & 집합](https://github.com/iberis2/coding_test_study/blob/main/week_4/README.md) | |
+| 3 | 26-02-27 (FRI) 19:00 | [3주차 - Stack, Queue, Hash](https://github.com/iberis2/coding_test_study/blob/main/week_3/README.md) |문기, 병국, 설화 태일, 효신 |
+| 4 | 26-03-06 (FRI) 19:00 | [4주차 - 트리 & 집합](https://github.com/iberis2/coding_test_study/blob/main/week_4/README.md) |문기, 설화, 태일, 효신 |
 | 5 | 26-03-13 (FRI) 19:00 | [5주차 - 집합 & 그래프](https://github.com/iberis2/coding_test_study/blob/main/week_5/README.md) | |
-| 6 | 26-03-20 (FRI) 19:00 | [6주차]() | |
-| 7 | 26-03-27 (FRI) 19:00 | [7주차]() | |
-| 8 | 26-04-03 (FRI) 19:00 | [8주차]() | |
-| 9 | 26-04-10 (FRI) 19:00 | [9주차]() | |
-| 10 | 26-04-17 (FRI) 19:00 | [10주차]() | |
-| 11 | 26-04-24 (FRI) 19:00 | [11주차]() | |
-| 12 | 26-05-01 (FRI) 19:00 | [12주차]() | |
+| 6 | 26-03-20 (FRI) 19:00 | [6주차](https://github.com/iberis2/coding_test_study/blob/main/week_6/README.md) | |
+| 7 | 26-03-27 (FRI) 19:00 | [7주차](https://github.com/iberis2/coding_test_study/blob/main/week_7/README.md) | |
+| 8 | 26-04-03 (FRI) 19:00 | [8주차](https://github.com/iberis2/coding_test_study/blob/main/week_8/README.md) | |
+| 9 | 26-04-10 (FRI) 19:00 | [9주차](https://github.com/iberis2/coding_test_study/blob/main/week_9/README.md) | |
+| 10 | 26-04-17 (FRI) 19:00 | [10주차](https://github.com/iberis2/coding_test_study/blob/main/week_10/README.md) | |
+| 11 | 26-04-24 (FRI) 19:00 | [11주차](https://github.com/iberis2/coding_test_study/blob/main/week_11/README.md) | |
+| 12 | 26-05-01 (FRI) 19:00 | [12주차](https://github.com/iberis2/coding_test_study/blob/main/week_12/README.md) | |
 
 
 <br/>
